@@ -1,8 +1,8 @@
-@font-face {
-    font-family: ttf;
-    src: url(comic.ttf);
-body {
-    background-image: url(https://i.kym-cdn.com/photos/images/original/001/451/264/95c.jpeg) ("pizzatime.jpg");
-    background-color: #cccccc;
-    font-family: ttf;
-}
+            @font-face {
+            font-family: ttf;
+            src: url(comic.ttf);
+            body {
+                background-image: url(95c.jpg);
+                background-color: #cccccc;
+                font-family: ttf;
+            }
