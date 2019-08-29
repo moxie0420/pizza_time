@@ -1,8 +1,10 @@
-            @font-face {
-            font-family: ttf;
-            src: url(comic.ttf);
-            body {
-                background-image: url(95c.jpg);
-                background-color: #cccccc;
-                font-family: ttf;
-            }
+@font-face {
+    font-family: ttf;
+    src: url(comic.ttf);
+}
+
+body {
+    background-image: url(95c.jpg);
+    background-color: #cccccc;
+    font-family: ttf;
+}
